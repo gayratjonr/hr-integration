@@ -1,0 +1,8 @@
+{
+  "localhost:9092": {
+    "bootstrap.servers": "localhost:9092",
+    "name": "localhost:9092",
+    "request.timeout.ms": "5000",
+    "ssl.endpoint.identification.algorithm": ""
+  }
+}
